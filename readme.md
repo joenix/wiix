@@ -1,0 +1,3 @@
+# Magic Javascript
+
+> Magic Javascript
